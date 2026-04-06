@@ -7,7 +7,7 @@ I am currently focused on building a strong foundation in **Python, Data Structu
 ---
 
 ### 🔭 What I'm Currently Working On
-* **Software Development:** Building a dedicated **Portfolio Manager** application using Python.
+* **Software Development:** Building a dedicated **Portfolio Manager** application using Python and also working on FreeCodeCamp Python Certification.
 * **Cybersecurity:** Progressing through the Google Cybersecurity Professional Certificate and sharpening my Linux command-line skills via OverTheWire (Bandit).
 * **Problem Solving:** Actively practicing DSA on LeetCode and HackerRank to strengthen algorithmic thinking. 
 
